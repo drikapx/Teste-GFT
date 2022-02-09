@@ -1,0 +1,15 @@
+C:\Teste GFT 0902\bin\Debug\net6.0\Teste GFT 0902.exe
+C:\Teste GFT 0902\bin\Debug\net6.0\Teste GFT 0902.deps.json
+C:\Teste GFT 0902\bin\Debug\net6.0\Teste GFT 0902.runtimeconfig.json
+C:\Teste GFT 0902\bin\Debug\net6.0\Teste GFT 0902.dll
+C:\Teste GFT 0902\bin\Debug\net6.0\ref\Teste GFT 0902.dll
+C:\Teste GFT 0902\bin\Debug\net6.0\Teste GFT 0902.pdb
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.csproj.AssemblyReference.cache
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.AssemblyInfoInputs.cache
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.AssemblyInfo.cs
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.csproj.CoreCompileInputs.cache
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.dll
+C:\Teste GFT 0902\obj\Debug\net6.0\ref\Teste GFT 0902.dll
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.pdb
+C:\Teste GFT 0902\obj\Debug\net6.0\Teste GFT 0902.genruntimeconfig.cache
